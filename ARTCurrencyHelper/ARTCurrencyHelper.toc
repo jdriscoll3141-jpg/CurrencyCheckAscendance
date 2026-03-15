@@ -1,7 +1,0 @@
-## Interface: 120000, 120001
-## Title: ART Currency Helper
-## Author: AscendanceRaidTools
-## Notes: Responds to Ascendance Raid Tools currency data requests. No UI — install and forget.
-## Version: 1.0.0
-
-ARTCurrencyHelper.lua
